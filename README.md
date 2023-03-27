@@ -24,7 +24,6 @@
   很多地方我都加了注释。
   
   
-  官网主页：https://hy6xing.gitee.io  
-  个人博客：https://hy6xing.cn  
-  个人主页：https://5a.中国  
+  官网主页：http://6xing.top 
+  
   不懂就要问，不要瞎搞。
